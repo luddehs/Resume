@@ -26,6 +26,10 @@
     background-color: #525252;
 }
 
+.bg-color-prsonal-info {
+    background-color: #f4f4f4;
+}
+
 .row-table {
     display: table;
 }
